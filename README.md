@@ -13,6 +13,7 @@ Scans backup folders on target sites. Searches archived files in the folders it 
 
 # Installation #
 1-`cd ohmybackup`
+
 2-`go build ohmybackup.go`
 
 # Run #
