@@ -19,5 +19,4 @@ Scans backup folders on target sites. Searches archived files in the folders it 
 # Run #
 
 `./ohmybackup --hostname target.com `
-                         ----------
 
